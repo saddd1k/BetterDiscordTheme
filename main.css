@@ -3400,13 +3400,3 @@ code{
     --normal-text: #dcdcde;
     --muted-text: #86868e
 }
-
-/* Применяем фоновое изображение к попапу Voice Details */
-.popout__3f413.popoutPositionTop__3f413,
-.popout__3f413.popoutPositionBottom__3f413,
-.popout__76f04 {
-    background: var(--background-image) var(--background-position)/var(--background-size) no-repeat !important;
-    background-attachment: var(--background-attachment) !important;
-    filter: var(--background-filter) !important;
-}
- 
