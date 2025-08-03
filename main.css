@@ -20,7 +20,7 @@
 }
 
 .info__2debe::after{
-    content:"Welcome" " " "7.0.1";
+    content:"Saddd" " " "visuals";
     color:var(--text-muted);
     font-size:12px;
     line-height:1.3333333333;
@@ -28,7 +28,7 @@
     font-family:var(--font-primary)
 }
 .visual-refresh:not(.platform-osx) .leading_c38106::before{
-    content:"ClearVision";
+    content:"Saddd";
     position:static;
     margin-left:10px;
     font-size:16px;
@@ -3336,7 +3336,7 @@ code{
     --streaming-color: #593695;
     --offline-color: #808080;
     --background-shading-percent: 100%;
-    --background-image: url(https://clearvision.github.io/images/sapphire.jpg);
+    --background-image: url(https://github.com/your/example.jpg);
     --background-position: center;
     --background-size: cover;
     --background-attachment: fixed;
@@ -3351,7 +3351,7 @@ code{
     --user-modal-size: var(--background-size);
     --user-modal-attachment: var(--background-attachment);
     --user-modal-filter: var(--background-filter);
-    --home-icon: url(https://clearvision.github.io/icons/discord.svg);
+    --home-icon: url(https://github.com/your/example.svg);
     --home-size: cover;
     --main-font: "gg sans", Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
     --code-font: Consolas, "gg mono", "Liberation Mono", Menlo, Courier, monospace;
@@ -3400,3 +3400,4 @@ code{
     --normal-text: #dcdcde;
     --muted-text: #86868e
 }
+ 
