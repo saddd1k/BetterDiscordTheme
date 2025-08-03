@@ -1,4 +1,4 @@
-/*! ClearVision - BetterDiscord Addon v7.0.1 by ClearVision Team */
+
 @keyframes cv-channel-select{
     from{
         right:100%
@@ -18,7 +18,7 @@
         opacity:.66
     }
 }
-/*! ClearVision - BetterDiscord Addon v7.0.1 by ClearVision Team */
+
 .visual-refresh .bd-store-card{
     background:var(--hsl-card-shading);
     border:1px solid rgba(0,0,0,0)
